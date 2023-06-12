@@ -1,6 +1,6 @@
 # Human-NeuroRobo-Interaction-using-NLP
 
-Last Updated: 12:06:2023 21:30 IST
+Last Updated: 12/06/2023 22:27 IST
 
 In this project, we present the Talk to Me, Let Me Guess, and I Am a Mimic modules which collectively form an integrated system designed to provide an immersive and engaging user experience. The system leverages state-of- the-art techniques and technologies to enable conversational interactions,object recognition and real-time facial mimicry.
 
